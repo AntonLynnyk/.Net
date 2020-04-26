@@ -1,0 +1,6 @@
+C:\Users\Anton\OneDrive\Documents\Projects\.Net\CSharpLearning\CSharpLearning\bin\Debug\CSharpLearning.exe.config
+C:\Users\Anton\OneDrive\Documents\Projects\.Net\CSharpLearning\CSharpLearning\bin\Debug\CSharpLearning.exe
+C:\Users\Anton\OneDrive\Documents\Projects\.Net\CSharpLearning\CSharpLearning\bin\Debug\CSharpLearning.pdb
+C:\Users\Anton\OneDrive\Documents\Projects\.Net\CSharpLearning\CSharpLearning\obj\Debug\CSharpLearning.csprojAssemblyReference.cache
+C:\Users\Anton\OneDrive\Documents\Projects\.Net\CSharpLearning\CSharpLearning\obj\Debug\CSharpLearning.exe
+C:\Users\Anton\OneDrive\Documents\Projects\.Net\CSharpLearning\CSharpLearning\obj\Debug\CSharpLearning.pdb
