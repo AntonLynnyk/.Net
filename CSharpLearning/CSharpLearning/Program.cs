@@ -13,6 +13,8 @@ namespace CSharpLearning
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Serhi pisun!");
+
             Console.WriteLine("Enter your string: ");
 
             string phrase = Console.ReadLine();
@@ -24,6 +26,8 @@ namespace CSharpLearning
             int maxValue = ExplorMaxValue(numbers);
 
             Console.WriteLine($"Max value of array is {maxValue}");
+
+            Console.ReadLine();
         }
         static int[] ConvAndAssign(string[] words)
         {
